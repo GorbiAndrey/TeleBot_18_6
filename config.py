@@ -1,4 +1,4 @@
-TOKEN = '2009211481:AAHCVzg_sPHR-FCE7cYPMUoZPUWcr8L7TAA'
+TOKEN = 'Введите Ваш токен для Телеграмм Бота'
 
 keys = {
     'биткоин': 'BTC',
